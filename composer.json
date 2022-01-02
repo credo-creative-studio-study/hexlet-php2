@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "Chprof\\HexletPhp2\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
