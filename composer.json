@@ -1,0 +1,18 @@
+{
+    "name": "chprof/hexlet-php2",
+    "description": "test enviroment",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chprof\\HexletPhp2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "credo-creative-studio-study",
+            "email": "credo.creative.creative.study@gmail.com"
+        }
+    ],
+    "require": {}
+}
