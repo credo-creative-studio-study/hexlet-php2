@@ -14,5 +14,7 @@
             "email": "credo.creative.creative.study@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.76"
+    }
 }
